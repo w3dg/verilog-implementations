@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Mon Sep 11 10:19:52 2023
+# Process ID: 10604
+# Current directory: C:/Users/KIIT/code/DSD-Lab/dsd-exp-4/dsd-exp-4.runs/synth_1
+# Command line: vivado.exe -log mux8_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux8_1.tcl
+# Log file: C:/Users/KIIT/code/DSD-Lab/dsd-exp-4/dsd-exp-4.runs/synth_1/mux8_1.vds
+# Journal file: C:/Users/KIIT/code/DSD-Lab/dsd-exp-4/dsd-exp-4.runs/synth_1\vivado.jou
+# Running On: BT-22051248, OS: Windows, CPU Frequency: 2803 MHz, CPU Physical cores: 4, Host memory: 16705 MB
+#-----------------------------------------------------------
+source mux8_1.tcl -notrace
